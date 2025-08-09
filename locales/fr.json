@@ -1,0 +1,97 @@
+{
+  "index": {
+    "welcome": "Bienvenue sur myStudiz !",
+    "password": "Mot de passe",
+    "remember_me": "Se souvenir de moi",
+    "login": "Se connecter",
+    "loginGoogle": "Se connecter avec Google",
+    "forgot_password": "Mot de passe oublié ?",
+    "no_account": "Vous n'avez pas de compte ?",
+    "signup": "Inscrivez-vous",
+    "loading_connexion": "Connexion..."
+  },
+  "register": {
+    "welcome": "Bienvenue sur myStudiz !",
+    "create_account": "Créer son compte",
+    "username": "Nom d'utilisateur",
+    "select_gender": "Choisissez votre genre",
+    "gender": "Genre",
+    "male": "Homme",
+    "female": "Femme",
+    "unknown": "Non renseigné",
+    "country": "Pays",
+    "select_country": "Choisissez votre pays",
+    "password": "Mot de passe",
+    "password_confirmation": "Confirmez votre mot de passe",
+    "register": "S'inscrire",
+    "have_account": "Vous avez déjà un compte ?",
+    "login": "Se connecter",
+    "loading": "Inscription..."
+  },
+  "folders": {
+    "filter_folder_placeholder": "Aucun filtre",
+    "filter_folder_none": "Aucun filtre",
+    "filter_folder_recent": "Plus récent",
+    "filter_folder_old": "Plus ancien",
+    "filter_folder_public": "Visibilité publique",
+    "filter_folder_private": "Visibilité privée",
+    "filter_folder_name": "Nom",
+    "filter_folder_color": "Couleur",
+    "filter_search": "Rechercher...",
+    "create_new_folder": "Créer un dossier",
+    "create_new_folder_description": "Ajoutez un nouveau dossier à votre collection",
+    "create_folder_name": "Nom du dossier",
+    "create_folder_color": "Couleur",
+    "create_folder_visibility_placeholder": "Choisir",
+    "create_folder_isPublic": "Visibilité",
+    "create_cancel": "Annuler",
+    "public": "Publique",
+    "private": "Privé"
+  },
+  "dashboard": {
+    "logout": "Se déconnecter"
+  },
+  "sidebar": {
+    "dashboard": "Tableau de bord",
+    "folders": "Dossiers",
+    "settings": "Paramètres",
+    "me": "Mon profil"
+  },
+  "loginSchema" : {
+    "email_invalid": "L'email est invalide",
+    "password_min": "Le mot de passe doit contenir au minimum 8 caractères"
+  },
+  "registerSchema" : {
+    "username_required": "Le nom d'utilisateur est requis",
+    "username_length": "Le nom d'utilisateur est trop court",
+    "email_required": "L'adresse email est requise",
+    "email_invalid": "L'adresse email est invalide",
+    "password_required": "Le mot de passe est requis",
+    "password_confirmation_required": "Le mot de passe de confirmation est requis",
+    "passwords_do_not_match": "Les mot de passe doivent être identiques",
+    "password_min": "Les mot de passe doivent contenir au minimum 8 caractères",
+    "gender_required": "Le genre est requis",
+    "country_required": "Le pays est requis"
+  },
+  "createFolderSchema" : {
+    "name_required": "Nom de dossier requis",
+    "name_length": "Le nom du dossier doit avoir au moins 1 caractère",
+    "color_required": "La couleur est requise",
+    "isPublic_required": "Un status est requis"
+  },
+  "country": {
+    "france": "France",
+    "germany": "Allemagne",
+    "italy": "Italie",
+    "spain": "Espagne",
+    "united_states": "États-Unis",
+    "canada": "Canada",
+    "brazil": "Brésil",
+    "australia": "Australie",
+    "japan": "Japon",
+    "china": "Chine",
+    "india": "Inde",
+    "south_africa": "Afrique du Sud",
+    "russia": "Russie"
+  }
+}

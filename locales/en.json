@@ -1,0 +1,97 @@
+{
+  "index": {
+    "welcome": "Welcome on myStudiz !",
+    "password": "Password",
+    "remember_me": "Remember me",
+    "login": "Login",
+    "loginGoogle": "Login with Google",
+    "forgot_password": "Forgot password ?",
+    "no_account": "You don't have an account ?",
+    "signup": "Sign up",
+    "loading_connexion": "Sign in"
+  },
+  "register": {
+    "welcome": "Welcome on myStudiz !",
+    "create_account": "Create your account",
+    "username": "Username",
+    "select_gender": "Select your gender",
+    "gender": "Gender",
+    "male": "Man",
+    "female": "Woman",
+    "unknown": "Not specified",
+    "country": "Country",
+    "select_country": "Select your country",
+    "password": "Password",
+    "password_confirmation": "Confirm your password",
+    "register": "Sign Up",
+    "have_account": "You already have an account ?",
+    "login": "Login",
+    "loading": "Loading..."
+  },
+  "folders": {
+    "filter_folder_placeholder": "No filter",
+    "filter_folder_none": "No filter",
+    "filter_folder_recent": "Most recent",
+    "filter_folder_old": "Older",
+    "filter_folder_public": "Public visibility",
+    "filter_folder_private": "Private visibility",
+    "filter_folder_name": "Name",
+    "filter_folder_color": "Color",
+    "filter_search": "Search...",
+    "create_new_folder": "Create a folder",
+    "create_new_folder_description": "Add a new folder to your collection",
+    "create_folder_name": "Folder's name",
+    "create_folder_color": "Color",
+    "create_folder_visibility_placeholder": "Select",
+    "create_folder_isPublic": "Visibility",
+    "create_cancel": "Cancel",
+    "public": "Public",
+    "private": "Private"
+  },
+  "dashboard": {
+    "logout": "Logout"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "folders": "Folders",
+    "settings": "Settings",
+    "me": "My profile"
+  },
+  "loginSchema" : {
+    "email_invalid": "Email is invalid",
+    "password_min": "Password must have at least 8 characters"
+  },
+  "registerSchema" : {
+    "username_required": "Username is required",
+    "username_length": "Username is too short",
+    "email_required": "Email is required",
+    "email_invalid": "Email is invalid",
+    "password_required": "Password is required",
+    "password_confirmation_required": "Password confirmation is required",
+    "passwords_do_not_match": "Passwords must be identical",
+    "password_min": "Passwords must have at least 8 characters",
+    "gender_required": "Gender is required",
+    "country_required": "Country is required"
+  },
+  "createFolderSchema" : {
+    "name_required": "Folder's name is required",
+    "name_length": "Folder's name must have at least 1 characters",
+    "color_required": "Color is required",
+    "isPublic_required": "Status required"
+  },
+  "country": {
+    "france": "France",
+    "germany": "Germany",
+    "italy": "Italy",
+    "spain": "Spain",
+    "united_states": "United States",
+    "canada": "Canada",
+    "brazil": "Brazil",
+    "australia": "Australia",
+    "japan": "Japan",
+    "china": "China",
+    "india": "India",
+    "south_africa": "South Africa",
+    "russia": "Russia"
+  }
+}
