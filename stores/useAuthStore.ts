@@ -51,8 +51,8 @@ export const useAuthStore = defineStore("auth", () => {
         if (errorData) {
             if (errorData.statusCode === 400) {
                 toast({
-                    title: "Error",
-                    description: error.value,
+                    title: "Erreur",
+                    description: 'L\'adresse e-mail ou le mot de passe que vous avez saisi est incorrect.',
                     variant: 'destructive',
                     },
                 );
